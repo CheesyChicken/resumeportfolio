@@ -1,8 +1,6 @@
 ![Screenshot 2023-05-29 at 16 30 44](https://github.com/CheesyChicken/resumeportfolio/assets/54834862/8e9d21d5-a940-46ce-ab93-1a68cc5d34ed)
-![Screenshot 2023-05-30 at 00 26 58](https://github.com/CheesyChicken/resumeportfolio/assets/54834862/7789d24d-79a7-4456-aafe-b5aeaf549fed)
-![Screenshot 2023-05-30 at 00 27 03](https://github.com/CheesyChicken/resumeportfolio/assets/54834862/97da7d5f-cf2c-44fc-8f9f-7ce070800bdb)
-![Screenshot 2023-05-30 at 00 27 10](https://github.com/CheesyChicken/resumeportfolio/assets/54834862/3b8e5bdb-6da1-41c0-ba87-943474b64359)
-![Screenshot 2023-05-30 at 00 27 13](https://github.com/CheesyChicken/resumeportfolio/assets/54834862/b73380f1-a57f-48af-9b19-a87bd26f0958)
+![Screenshot 2023-05-30 at 00 31 21](https://github.com/CheesyChicken/resumeportfolio/assets/54834862/8ed93dc4-5a6f-4e3b-ba58-530fec9d6eb2)
+![Screenshot 2023-05-30 at 00 31 48](https://github.com/CheesyChicken/resumeportfolio/assets/54834862/d23bc6de-c915-47d3-8dee-9056bbad648e)
 ![Screenshot 2023-05-30 at 00 27 20](https://github.com/CheesyChicken/resumeportfolio/assets/54834862/4024a5de-b87d-499e-8f5e-1c310c9718ca)
 
 # Getting Started with Create React App
