@@ -1,3 +1,5 @@
+![Screenshot 2023-05-29 at 16 30 44](https://github.com/CheesyChicken/resumeportfolio/assets/54834862/8e9d21d5-a940-46ce-ab93-1a68cc5d34ed)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
