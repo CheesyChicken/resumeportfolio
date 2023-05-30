@@ -5,7 +5,7 @@ import GitHubIcon from '@mui/icons-material/GitHub';
 import "../ProjectDisplay/ProjectDisplay.css";
 
 function ProjectDisplay() {
-    const { id } = useParams();
+    const {id} = useParams();
     const project = ProjectList[id];
     return ( 
         <div className = "project">
