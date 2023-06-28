@@ -33,6 +33,7 @@ function Home() {
       </div>
 
       <div className='skills'>
+        
         <h1>
           Skills
         </h1>
